@@ -5,6 +5,10 @@
 #include "ff.h"
 #include "ffconf.h"
 #include "lcd.h"
+#include "tty.h"
+#include "fifo.h"
+
+//
 #include "stm32f0xx.h"
 
 int __io_putchar(int c)
