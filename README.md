@@ -1,10 +1,10 @@
 # ECE-36200-Piano-Synth-Project
 
 Contributors:
-Anurag Numboori
-Adrian Chen
-Ainesh Sootha
-Austin W
+Anurag Numboori   
+Adrian Chen  
+Ainesh Sootha  
+Austin W  
 
 We built a synthesizer and mixer. There were 24 buttons that played notes from C4 to B5, and could play multiple notes at once. There was also a recording functionality that allowed you to input information on an ADSR envelope, and replay at will. <br>
 
