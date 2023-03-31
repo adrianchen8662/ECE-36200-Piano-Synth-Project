@@ -1,6 +1,6 @@
 # ECE-36200-Piano-Synth-Project
 
-Contributors:
+Contributors:  
 Anurag Numboori   
 Adrian Chen  
 Ainesh Sootha  
