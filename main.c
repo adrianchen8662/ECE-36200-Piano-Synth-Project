@@ -1,3 +1,10 @@
+/*
+Contributors:
+Anurag Numboori
+Adrian Chen
+Ainesh Sootha
+Austin W
+*/
 #include "stm32f0xx.h"
 #include <stddef.h>
 #include "math.h"
